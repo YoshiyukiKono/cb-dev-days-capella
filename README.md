@@ -1,2 +1,1 @@
-# cb-dev-days-capella
-Couchbase Capellaワークショップ
+# Couchbase Capella ワークショップ
