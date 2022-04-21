@@ -4,6 +4,10 @@
 
 https://cloud.couchbase.com/sign-up
 
+## Couchbase Playground
+
+http://couchbase.live
+
 ## Couchbase Capellaに関するお問い合わせ先
 
 https://info.couchbase.com/Capella-Contact.html
