@@ -1,5 +1,9 @@
 # Couchbase Capella ワークショップ
 
+## フリートライアルサインアップ
+
+https://cloud.couchbase.com/sign-up
+
 ## Couchbase Capellaに関するお問い合わせ先
 
 https://info.couchbase.com/Capella-Contact.html
