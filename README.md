@@ -20,3 +20,7 @@ https://info.couchbase.com/Capella-Contact.html
 ## SDKとコネクターに関する情報
 
 https://docs.couchbase.com/home/sdk.html
+
+## IPアドレス確認
+
+https://whatismyipaddress.com/
